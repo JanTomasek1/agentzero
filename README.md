@@ -4,10 +4,6 @@
 
 # `Agent Zero`
 
-[Installation](./docs/installation.md) •
-[How to update](./docs/installation.md#how-to-update-agent-zero) •
-[Documentation](./docs/README.md) •
-[Usage](./docs/usage.md)
 
 </div>
 
